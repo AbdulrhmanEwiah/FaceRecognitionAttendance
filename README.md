@@ -5,7 +5,8 @@ A real time face recognition of students for their attendance. The attendance re
 updates regarding the attendance is directly sent to the user via gmail. An android app is also provided for the end user.
 
 ---How to execute this project---
-Check the presentation attached.
+You will have to install the required libraries, you will do so through anaconda prompt following the instructions in the presentation attached.
+
 
 ---Basic project flow---
 
